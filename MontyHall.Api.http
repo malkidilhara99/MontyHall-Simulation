@@ -1,0 +1,6 @@
+@MontyHall.Api_HostAddress = http://localhost:5230
+
+GET {{MontyHall.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
